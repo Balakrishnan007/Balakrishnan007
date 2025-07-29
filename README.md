@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! My name is Balakrishnan and I'm an AI Engineer, from Germany</h2>
 
+### 
+
+I am currently working on my master thesis, which involves Multi-AI-Agents for Root Cause Analysis.
+
 ###
 
 <div align="center">
