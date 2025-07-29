@@ -87,7 +87,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Balakrishnan007.Balakrishnan007" />
 </div>
 
----
 
-🐍 **Fun:**  
-<img src="https://raw.githubusercontent.com/Balakrishnan007/Balakrishnan007/output/snake.svg" alt="Snake animation" />
