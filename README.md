@@ -36,7 +36,7 @@
 
 📬 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Balakrishnan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/balakrishnanchandrasekaran/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:cbkrish96@gmail.com)
 
 ---
 
