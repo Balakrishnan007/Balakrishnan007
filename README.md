@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Balakrishnan!  
 
-💡 **AI Engineer | Multi-Agent Systems | RAG | Knowledge Graphs | Cloud Deployment**
+💡 **AI Engineer | Multi-Agent Systems | RAG | Knowledge Graphs | AWS**
 
 ---
 
