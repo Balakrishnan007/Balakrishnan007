@@ -9,8 +9,7 @@
 - Retrieval-Augmented Generation (RAG) and Agentic Workflows  
 - Knowledge Graphs & Graph RAG  
 - Generative AI and LLM integration  
-- Cloud-native AI deployment (Azure, Docker, FastAPI)  
-- Computer Vision & Transformer-based models  
+- Cloud-native AI deployment (AWS, Docker, FastAPI)  
 
 ---
 
